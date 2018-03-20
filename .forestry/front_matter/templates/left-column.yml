@@ -1,6 +1,7 @@
 ---
 pages:
 - an-page.md
+- _posts/firtst-post.md
 hide_body: false
 fields:
 - type: text
