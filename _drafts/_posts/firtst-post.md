@@ -1,4 +1,6 @@
 ---
 title: Firtst post
-date: 2018-03-19 19:36:42 +0000
+date: 2018-03-19 00:00:00 +0000
+body: this is a post
 ---
+This is a first post
